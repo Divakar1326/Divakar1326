@@ -206,7 +206,7 @@
     </g>
   
 
-    <g transform="translate(8, 366)" id="widget-widget_1788528111131">
+    <g transform="translate(10, 366)" id="widget-widget_1788528111131">
 
       
         <style>
@@ -332,7 +332,7 @@
         <!-- Content Overlay -->
         <g transform="translate(28, 0)">
           <!-- Eyebrow / Tag -->
-          <text class="anim-target" x="0" y="62" fill="rgba(255,255,255,0.35)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="3" style="animation-delay: 91ms; transform-origin: center;">WHAT I DO .</text>
+          <text class="anim-target" x="0" y="62" fill="rgba(255,255,255,0.35)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="3" style="animation-delay: 91ms; transform-origin: center;">WHAT I DO </text>
 
           <!-- Headline Line 1 -->
           <text class="anim-target" x="0" y="98" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="0.2" style="animation-delay: 109ms; transform-origin: center;">Building things</text>
