@@ -1,5 +1,5 @@
 
-<svg width="800" height="2830" viewBox="0 0 800 2830" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800" height="2414" viewBox="0 0 800 2414" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
 
@@ -29,7 +29,7 @@
     }
   </style>
 
-  <rect class="gitascii-canvas-bg" width="800" height="2830" fill="#ffffff" rx="0" />
+  <rect class="gitascii-canvas-bg" width="800" height="2414" fill="#ffffff" rx="0" />
 
   
     <g transform="translate(8, 10)" id="widget-widget_1788528100067">
@@ -2527,13 +2527,13 @@
     </g>
   
 
-    <g transform="translate(0, 2414)" id="widget-widget_1790011667141">
+    <g transform="translate(8, 1142)" id="widget-widget_1790011667141">
 
       
       
       
       
-      <svg xmlns="http://www.w3.org/2000/svg" width="370" height="400" viewBox="0 0 370 400" preserveAspectRatio="xMidYMid meet" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <svg xmlns="http://www.w3.org/2000/svg" width="332" height="300" viewBox="0 0 370 400" preserveAspectRatio="xMidYMid meet" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
 <defs><linearGradient id="portrait-bg-widget_1790011667141" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="transparent"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
 <rect width="370" height="400" rx="12" fill="url(#portrait-bg-widget_1790011667141)"/>
 <rect x="0.5" y="0.5" width="369" height="399" rx="12" fill="none" stroke="#ffffff" stroke-width="1"/>

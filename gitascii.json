@@ -568,12 +568,12 @@
       "widgetId": "asciiprofile-portrait",
       "name": "Asciiprofile-portrait Widget",
       "position": {
-        "x": 0,
-        "y": 2414
+        "x": 8,
+        "y": 1142
       },
       "size": {
-        "width": 370,
-        "height": 400
+        "width": 332,
+        "height": 300
       },
       "config": {
         "accentColor": "#ffa657",
@@ -20911,7 +20911,7 @@
   "templateId": "codeweb",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790011749137_7rhlp",
-    "updatedAt": "2026-09-21T17:29:12.547Z"
+    "revision": "rev_1790011830671_jcb3m",
+    "updatedAt": "2026-09-21T17:30:34.188Z"
   }
 }
