@@ -42,7 +42,7 @@
         "height": 208
       },
       "config": {
-        "aboutTag": "what i do ",
+        "aboutTag": "what i do .",
         "card1Icon": "brain-circuit",
         "card1Text": "Learn. Build. Repeat",
         "card2Icon": "zap",
@@ -62,8 +62,8 @@
       "zIndex": 2,
       "visible": true,
       "position": {
-        "x": 9.5,
-        "y": 364
+        "x": 8,
+        "y": 366
       },
       "widgetId": "codeweb-showcase-cards",
       "instanceId": "widget_1788528111131"
@@ -20933,7 +20933,7 @@
   "templateId": "codeweb",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790022312532_v05ty",
-    "updatedAt": "2026-09-21T20:25:15.711Z"
+    "revision": "rev_1790022420208_p8obp",
+    "updatedAt": "2026-09-21T20:27:03.235Z"
   }
 }
