@@ -20916,28 +20916,6 @@
       "locked": false,
       "visible": true,
       "zIndex": 22
-    },
-    {
-      "instanceId": "widget_1790019558914",
-      "widgetId": "streak-stats",
-      "name": "Streak-stats Widget",
-      "position": {
-        "x": 512,
-        "y": 1496
-      },
-      "size": {
-        "width": 292,
-        "height": 136
-      },
-      "config": {
-        "showTitle": false,
-        "backgroundColor": "transparent",
-        "hideBorder": true,
-        "hideDecorations": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 22
     }
   ],
   "globalStyles": {
@@ -20955,7 +20933,7 @@
   "templateId": "codeweb",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790022113150_5f019",
-    "updatedAt": "2026-09-21T20:21:56.517Z"
+    "revision": "rev_1790022217398_dg9w3",
+    "updatedAt": "2026-09-21T20:23:41.271Z"
   }
 }
