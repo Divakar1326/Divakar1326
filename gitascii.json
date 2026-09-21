@@ -63,7 +63,7 @@
       "visible": true,
       "position": {
         "x": 9.5,
-        "y": 366
+        "y": 364
       },
       "widgetId": "codeweb-showcase-cards",
       "instanceId": "widget_1788528111131"
@@ -20933,7 +20933,7 @@
   "templateId": "codeweb",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790022217398_dg9w3",
-    "updatedAt": "2026-09-21T20:23:41.271Z"
+    "revision": "rev_1790022312532_v05ty",
+    "updatedAt": "2026-09-21T20:25:15.711Z"
   }
 }
