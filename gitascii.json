@@ -20931,7 +20931,9 @@
       },
       "config": {
         "showTitle": false,
-        "backgroundColor": "transparent"
+        "backgroundColor": "transparent",
+        "hideBorder": true,
+        "hideDecorations": true
       },
       "locked": false,
       "visible": true,
@@ -20953,7 +20955,7 @@
   "templateId": "codeweb",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790019632291_54kms",
-    "updatedAt": "2026-09-21T19:40:36.777Z"
+    "revision": "rev_1790019718759_h8mm9",
+    "updatedAt": "2026-09-21T19:42:02.366Z"
   }
 }
