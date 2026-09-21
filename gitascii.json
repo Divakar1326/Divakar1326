@@ -50,7 +50,7 @@
         "showTitle": false,
         "hideBorder": true,
         "card1GifUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhjNWI0eXFoemxtZ2JiM2NrZGdyemRnYTdqZGdsOXF6NHE3aTg1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sRFEa8lbeC7zbcIZZR/giphy.gif",
-        "card2GifUrl": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdhbXMwdWNkaDA5eTM4Y3ZjYnYzNTR5YnB0M21jdzlrd2gyczQxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGh13y4IVFZzCACfTX/giphy.gif",
+        "card2GifUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtscmU5Zzl3d2xxZ2RldWRsYjNlaDg5OWtkbmFhdndpdDk4d2hpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3mZnuz4coJp8EBBm/giphy.gif",
         "terminalText": "> Happie to connect",
         "animationType": "fade-in",
         "backgroundColor": "transparent",
@@ -20933,7 +20933,7 @@
   "templateId": "codeweb",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790012537098_hr3h8",
-    "updatedAt": "2026-09-21T17:42:20.992Z"
+    "revision": "rev_1790012826623_nu4xy",
+    "updatedAt": "2026-09-21T17:47:10.817Z"
   }
 }
