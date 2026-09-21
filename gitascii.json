@@ -42,7 +42,7 @@
         "height": 208
       },
       "config": {
-        "aboutTag": "what i do .",
+        "aboutTag": "what i do ",
         "card1Icon": "brain-circuit",
         "card1Text": "Learn. Build. Repeat",
         "card2Icon": "zap",
@@ -20933,7 +20933,7 @@
   "templateId": "codeweb",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790012430622_3pg3d",
-    "updatedAt": "2026-09-21T17:40:34.760Z"
+    "revision": "rev_1790012537098_hr3h8",
+    "updatedAt": "2026-09-21T17:42:20.992Z"
   }
 }
