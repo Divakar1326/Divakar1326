@@ -20894,28 +20894,6 @@
       },
       "widgetId": "asciiprofile-portrait",
       "instanceId": "widget_1790011667141"
-    },
-    {
-      "instanceId": "widget_1790011936292",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
-      "position": {
-        "x": 16,
-        "y": 1492
-      },
-      "size": {
-        "width": 773,
-        "height": 136
-      },
-      "config": {
-        "showTitle": false,
-        "hideDecorations": true,
-        "hideBorder": true,
-        "backgroundColor": "#0d1117"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 22
     }
   ],
   "globalStyles": {
@@ -20933,7 +20911,7 @@
   "templateId": "codeweb",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790022420208_p8obp",
-    "updatedAt": "2026-09-21T20:27:03.235Z"
+    "revision": "rev_1790022580586_2itlj",
+    "updatedAt": "2026-09-21T20:29:43.849Z"
   }
 }
