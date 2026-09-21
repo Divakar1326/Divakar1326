@@ -1,0 +1,585 @@
+{
+  "username": "Divakar1326",
+  "widgets": [
+    {
+      "name": "Codeweb-hero-orbit Widget",
+      "size": {
+        "width": 784,
+        "height": 344
+      },
+      "config": {
+        "tags": [
+          "Machine Learning",
+          "Generative AI",
+          "LLMs",
+          "NLP",
+          "RAG",
+          "Python"
+        ],
+        "subtitle": "APPRECIATING THE WIN STARTS WITH MASTERING THE STRUGGLE",
+        "showTitle": false,
+        "hideBorder": true,
+        "staticMode": false,
+        "animationType": "fade-in",
+        "backgroundColor": "transparent",
+        "hideDecorations": true,
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "zIndex": 1,
+      "visible": true,
+      "position": {
+        "x": 8,
+        "y": 10
+      },
+      "widgetId": "codeweb-hero-orbit",
+      "instanceId": "widget_1788528100067"
+    },
+    {
+      "name": "Codeweb-showcase-cards Widget",
+      "size": {
+        "width": 784,
+        "height": 208
+      },
+      "config": {
+        "aboutTag": "what i do .",
+        "card1Icon": "brain-circuit",
+        "card1Text": "Learn. Build. Repeat",
+        "card2Icon": "zap",
+        "card2Text": "Build with Purpose.",
+        "showTitle": false,
+        "hideBorder": true,
+        "card1GifUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhjNWI0eXFoemxtZ2JiM2NrZGdyemRnYTdqZGdsOXF6NHE3aTg1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sRFEa8lbeC7zbcIZZR/giphy.gif",
+        "card2GifUrl": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdhbXMwdWNkaDA5eTM4Y3ZjYnYzNTR5YnB0M21jdzlrd2gyczQxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGh13y4IVFZzCACfTX/giphy.gif",
+        "terminalText": "> Happie to connect",
+        "animationType": "fade-in",
+        "backgroundColor": "transparent",
+        "hideDecorations": true,
+        "lockAspectRatio": true,
+        "animationPreviewKey": 9
+      },
+      "locked": false,
+      "zIndex": 2,
+      "visible": true,
+      "position": {
+        "x": 9.5,
+        "y": 364
+      },
+      "widgetId": "codeweb-showcase-cards",
+      "instanceId": "widget_1788528111131"
+    },
+    {
+      "name": "Codeweb-social-badge Widget",
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "platforms": [
+          "github",
+          "linkedin",
+          "instagram",
+          "gmail"
+        ],
+        "hideBorder": true,
+        "label_gmail": "diva132006@gmail.com",
+        "label_github": "Divakar1326",
+        "animationType": "fade-in",
+        "label_linkedin": "divakar1326",
+        "backgroundColor": "transparent",
+        "hideDecorations": true,
+        "label_instagram": "divakar_.mohan",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "zIndex": 3,
+      "visible": true,
+      "position": {
+        "x": 0,
+        "y": 582
+      },
+      "widgetId": "codeweb-social-badge",
+      "instanceId": "widget_1788528116223"
+    },
+    {
+      "name": "Codeweb-minimal-badge Widget",
+      "size": {
+        "width": 800,
+        "height": 40
+      },
+      "config": {
+        "suffix": " - Powered by Github",
+        "showTitle": false,
+        "textColor": "#ffffff",
+        "hideBorder": true,
+        "animationType": "fade-in",
+        "backgroundColor": "#0d1117",
+        "hideDecorations": true,
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "zIndex": 4,
+      "visible": true,
+      "position": {
+        "x": 0,
+        "y": 2358
+      },
+      "widgetId": "codeweb-minimal-badge",
+      "instanceId": "widget_1788528121745"
+    },
+    {
+      "name": "Social-media Widget",
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "showTitle": false,
+        "badgeStyle": "skillicons",
+        "hideBorder": true,
+        "socialUrls": {
+          "email": "mailto:diva132006@gmail.com",
+          "github": "https://github.com/Divakar1326",
+          "website": "https://divakar1326.streamlit.app/",
+          "linkedin": "https://www.linkedin.com/in/divakar1326",
+          "instagram": "https://www.instagram.com/divakar_.mohan/"
+        },
+        "animationType": "fade-in",
+        "backgroundColor": "transparent",
+        "hideDecorations": true,
+        "lockAspectRatio": false,
+        "selectedSocials": [
+          "github",
+          "linkedin",
+          "instagram",
+          "email"
+        ],
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "zIndex": 5,
+      "visible": true,
+      "position": {
+        "x": -150,
+        "y": 2246
+      },
+      "widgetId": "social-media",
+      "instanceId": "widget_1788529142978"
+    },
+    {
+      "name": "Divider Widget",
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {
+        "hideBorder": true,
+        "backgroundColor": "transparent",
+        "hideDecorations": true
+      },
+      "locked": false,
+      "zIndex": 6,
+      "visible": true,
+      "position": {
+        "x": 0,
+        "y": 1096
+      },
+      "widgetId": "divider",
+      "instanceId": "widget_1788529399197"
+    },
+    {
+      "name": "Premium-ascii-dna Widget",
+      "size": {
+        "width": 460,
+        "height": 460
+      },
+      "config": {
+        "textColor": "#ff4a4a",
+        "hideBorder": true,
+        "accentColor": "#39c5cf",
+        "borderColor": "#ffb800",
+        "secondaryColor": "#58a6ff",
+        "backgroundColor": "#f0f0f0",
+        "hideDecorations": true,
+        "lockAspectRatio": true,
+        "transparentBackground": true
+      },
+      "locked": false,
+      "zIndex": 7,
+      "visible": true,
+      "position": {
+        "x": 340,
+        "y": 1062
+      },
+      "widgetId": "premium-ascii-dna",
+      "instanceId": "widget_1788529721187"
+    },
+    {
+      "name": "Asciiprofile-heatmap Widget",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "config": {
+        "showTitle": false,
+        "hideBorder": true,
+        "accentColor": "#00ffff",
+        "backgroundColor": "github-auto",
+        "hideDecorations": true
+      },
+      "locked": false,
+      "zIndex": 8,
+      "visible": true,
+      "position": {
+        "x": 10,
+        "y": 1458
+      },
+      "widgetId": "asciiprofile-heatmap",
+      "instanceId": "widget_1788529959351"
+    },
+    {
+      "name": "Divider Widget (Cópia)",
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {
+        "hideBorder": true,
+        "accentColor": "#ff4a4a",
+        "backgroundColor": "transparent",
+        "hideDecorations": true
+      },
+      "locked": false,
+      "zIndex": 9,
+      "visible": true,
+      "position": {
+        "x": 0,
+        "y": 1698
+      },
+      "widgetId": "divider",
+      "instanceId": "widget_1788530107338_0"
+    },
+    {
+      "name": "Terminal-info Widget",
+      "size": {
+        "width": 776,
+        "height": 280
+      },
+      "config": {
+        "textColor": "github-auto",
+        "hideBorder": true,
+        "borderColor": "#212830",
+        "animationType": "fade-in",
+        "backgroundColor": "#0d1117",
+        "hideDecorations": true,
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "zIndex": 10,
+      "visible": true,
+      "position": {
+        "x": 12,
+        "y": 636
+      },
+      "widgetId": "terminal-info",
+      "instanceId": "widget_1788528705983"
+    },
+    {
+      "name": "Tech-stack Widget",
+      "size": {
+        "width": 776,
+        "height": 140
+      },
+      "config": {
+        "perLine": 9,
+        "showTitle": false,
+        "hideBorder": true,
+        "borderColor": "#212830",
+        "animationType": "fade-in",
+        "selectedTechs": [
+          "py",
+          "github",
+          "c",
+          "postgres",
+          "flask",
+          "nextjs",
+          "git",
+          "vercel",
+          "supabase",
+          "tailwind",
+          "firebase",
+          "sqlite",
+          "gitlab",
+          "docker",
+          "vscode",
+          "figma",
+          "cloudflare",
+          "notion"
+        ],
+        "backgroundColor": "#0d1117",
+        "hideDecorations": false,
+        "animationPreviewKey": 8
+      },
+      "locked": false,
+      "zIndex": 11,
+      "visible": true,
+      "position": {
+        "x": 12,
+        "y": 836
+      },
+      "widgetId": "tech-stack",
+      "instanceId": "widget_1788528756456"
+    },
+    {
+      "name": "Awesome-badge Widget",
+      "size": {
+        "width": 258,
+        "height": 64
+      },
+      "config": {
+        "showTitle": false,
+        "badgeColor": "blue",
+        "badgeStyle": "flat",
+        "hideBorder": true,
+        "animationType": "fade-in",
+        "backgroundColor": "transparent",
+        "hideDecorations": true,
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "zIndex": 13,
+      "visible": true,
+      "position": {
+        "x": 518,
+        "y": 2298
+      },
+      "widgetId": "awesome-badge",
+      "instanceId": "widget_1788534135259"
+    },
+    {
+      "name": "Views-counter Widget",
+      "size": {
+        "width": 168,
+        "height": 56
+      },
+      "config": {
+        "style": "flat",
+        "showTitle": false,
+        "hideBorder": true,
+        "animationType": "fade-in",
+        "backgroundColor": "transparent",
+        "hideDecorations": true,
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "zIndex": 14,
+      "visible": true,
+      "position": {
+        "x": 563,
+        "y": 2254
+      },
+      "widgetId": "views-counter",
+      "instanceId": "widget_1788535069858"
+    },
+    {
+      "name": "Languages Widget",
+      "size": {
+        "width": 800,
+        "height": 136
+      },
+      "config": {
+        "showTitle": false,
+        "textColor": "#999999",
+        "hideBorder": true,
+        "langsCount": 4,
+        "langsLayout": "bars",
+        "animationType": "fade-in",
+        "hideDecorations": true,
+        "animationPreviewKey": 3
+      },
+      "locked": false,
+      "zIndex": 16,
+      "visible": true,
+      "position": {
+        "x": 0,
+        "y": 990
+      },
+      "widgetId": "languages",
+      "instanceId": "widget_1788542957861"
+    },
+    {
+      "name": "Godprofile-marquee Widget",
+      "size": {
+        "width": 776,
+        "height": 128
+      },
+      "config": {
+        "showTitle": false,
+        "hideBorder": true,
+        "accentColor": "#00ffff",
+        "borderColor": "#ff00ff",
+        "marqueeLangs": [
+          "react",
+          "nodejs",
+          "python",
+          "git",
+          "docker",
+          "linux",
+          "py",
+          "cpp",
+          "matlab",
+          "fastapi",
+          "flask",
+          "mysql",
+          "mongodb",
+          "postgres",
+          "supabase",
+          "firebase",
+          "sqlite",
+          "github",
+          "kubernetes",
+          "vscode",
+          "githubactions",
+          "vercel",
+          "gitlab"
+        ],
+        "animationType": "slide-left",
+        "backgroundColor": "#0d1117",
+        "hideDecorations": true,
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "zIndex": 17,
+      "visible": true,
+      "position": {
+        "x": 12,
+        "y": 932
+      },
+      "widgetId": "godprofile-marquee",
+      "instanceId": "widget_1788530427692"
+    },
+    {
+      "name": "Godprofile-trophies Widget",
+      "size": {
+        "width": 759.25,
+        "height": 224
+      },
+      "config": {
+        "showTitle": false,
+        "hideBorder": true,
+        "accentColor": "#b6a891",
+        "animationType": "fade-in",
+        "hideDecorations": true,
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "zIndex": 19,
+      "visible": true,
+      "position": {
+        "x": 20.375,
+        "y": 2000
+      },
+      "widgetId": "godprofile-trophies",
+      "instanceId": "widget_1788608953434"
+    },
+    {
+      "name": "Controlplane-monolith Widget",
+      "size": {
+        "width": 779,
+        "height": 330
+      },
+      "config": {
+        "showTitle": false,
+        "hideBorder": true,
+        "layoutType": "closed-loop",
+        "repoSortBy": "name",
+        "accentColor": "#ff3366",
+        "animationType": "fade-in",
+        "secondaryColor": "#ffff55",
+        "backgroundColor": "github-auto",
+        "hideDecorations": true,
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "zIndex": 20,
+      "visible": true,
+      "position": {
+        "x": 13,
+        "y": 1714
+      },
+      "widgetId": "controlplane-monolith",
+      "instanceId": "widget_1788531627820"
+    },
+    {
+      "name": "Surveillance-title Widget",
+      "size": {
+        "width": 773,
+        "height": 40
+      },
+      "config": {
+        "title": "COMMUNICATION CHANNELS",
+        "ledColor": "#ffffff",
+        "customRef": "REF://SOCIAL.NET",
+        "showTitle": false,
+        "textColor": "#00ffff",
+        "accentColor": "#e6fbfb",
+        "borderColor": "transparent",
+        "customTitle": "COMMUNICATION CHANNELS",
+        "referenceTag": "REF://SOCIAL.NET",
+        "animationType": "fade-in",
+        "secondaryColor": "#f0f0f0",
+        "backgroundColor": "#1f1f1f",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "zIndex": 21,
+      "visible": true,
+      "position": {
+        "x": 15,
+        "y": 2214
+      },
+      "widgetId": "surveillance-title",
+      "instanceId": "widget_1788532575162"
+    },
+    {
+      "name": "Divider Widget (Cópia) (Cópia)",
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {
+        "hideBorder": true,
+        "accentColor": "#ffb800",
+        "backgroundColor": "transparent",
+        "hideDecorations": true
+      },
+      "locked": false,
+      "zIndex": 22,
+      "visible": true,
+      "position": {
+        "x": 0,
+        "y": 2028
+      },
+      "widgetId": "divider",
+      "instanceId": "widget_1788542423255_0"
+    }
+  ],
+  "globalStyles": {
+    "padding": 24,
+    "textColor": "#d6e0f0",
+    "themeMode": "auto",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "accentColor": "#6cc382",
+    "borderColor": "#ffffff",
+    "borderRadius": 0,
+    "templateStyle": "codeweb",
+    "backgroundColor": "transparent",
+    "transparentBackground": false
+  },
+  "templateId": "codeweb",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1790011629369_kf9s7",
+    "updatedAt": "2026-09-21T17:27:13.776Z"
+  }
+}
